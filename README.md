@@ -1,3 +1,6 @@
+### 📌 Nota Pessoal
+Este projeto foi desenvolvido em equipe como parte do curso de FullStack Capacita Brasil/C-Jovem. 
+
 # Projeto Bienal do Livro
 Repositório do pro# Projeto Bienal do Livro
 Repositório do projeto: CAPACITA BRASIL/C-JOVEM CURSO: RESIDÊNCIA TECNOLÓGICA EM DESENVOLVIMENTO FULLSTACK - MÓDULO BÁSICO
